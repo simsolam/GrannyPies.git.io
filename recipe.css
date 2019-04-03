@@ -1,0 +1,28 @@
+body{
+    color:#404040;
+    font-size: 11pt;
+    font-family: "Georgia", Serif;
+}
+
+a{
+    color:#A4A400;
+}
+
+h1 {
+    background-color: #A4A400;
+    color:#F0F0F0;
+    text-align: center;
+    font-family: "Lucida Sans", monospace;
+    text-decoration: underline;
+    font-size: 22pt;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+h2{
+    background-color: #A4A400;
+    color:#F0F0F0;
+    font-family: "Lucida Sans", monospace;
+    text-decoration: underline;
+    font-size: 18pt;
+    text-transform: capitalize;
+}
